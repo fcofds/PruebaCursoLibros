@@ -1,6 +1,6 @@
 # 1. ¿Qué es un TeachBook?
 
-Un [**TeachBook**](https://teachbooks.io/) es un libro docente digital, construido a partir de archivos de texto, código y recursos multimedia, que luego se compila para obtener una **web navegable** y, en el caso de este curso, también una **versión PDF**.
+Prueba Un [**TeachBook**](https://teachbooks.io/) es un libro docente digital, construido a partir de archivos de texto, código y recursos multimedia, que luego se compila para obtener una **web navegable** y, en el caso de este curso, también una **versión PDF**.
 
 Dicho de forma simple:
 
