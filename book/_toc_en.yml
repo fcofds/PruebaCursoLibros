@@ -10,3 +10,6 @@ parts:
       - file: en/00_introduccion/04_luces
       - file: en/00_introduccion/05_scripts
       - file: en/00_introduccion/06_trasnformaciones
+  - caption: References
+    chapters:
+    - file: en/93_bibliography
