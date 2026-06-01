@@ -11,7 +11,7 @@ Los scripts permiten ejecutar sentencias de código asociado a determinados obje
   <picture>
     <img src="../../_static/images/Imagen8.png" alt="Figura 8.	Scripts" style="width: 85%;">
   </picture>
-  <figcaption>Figura 8.	Scripts</figcaption>
+  <figcaption>Figura 8. Scripts</figcaption>
 </figure>
 ```
 ````
@@ -26,7 +26,6 @@ align: center
 ---
 ```
 ````
-
 
 Para el caso de C# se podría hacer mediante el siguiente código
 using UnityEngine;
