@@ -9,7 +9,7 @@ Los scripts permiten ejecutar sentencias de código asociado a determinados obje
 ```{raw} html
 <figure class="align-center">
   <picture>
-    <img src="../../_static/images/Imagen6.png" alt="Figura 8.	Scripts" style="width: 85%;">
+    <img src="../../_static/images/Imagen8.png" alt="Figura 8.	Scripts" style="width: 85%;">
   </picture>
   <figcaption>Figura 8.	Scripts</figcaption>
 </figure>

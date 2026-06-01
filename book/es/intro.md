@@ -12,6 +12,3 @@ También puedes descargar la versión imprimible del libro:
 - [Descargar PDF en español](../_static/teachbook_es.pdf)
 - [Download PDF in English](../_static/teachbook_en.pdf)
 
-```{note}
-Este proyecto está diseñado para ser usado con **VS Code** y asistentes de **IA**.
-```
