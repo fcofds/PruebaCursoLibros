@@ -9,6 +9,6 @@ En este libro encontrarás:
 
 También puedes descargar la versión imprimible del libro:
 
-- [Descargar PDF en español](../../_static/teachbook_es.pdf)
-- [Download PDF in English](../../_static/teachbook_en.pdf)
+- [Descargar PDF en español](../../../../_static/teachbook_es.pdf)
+- [Download PDF in English](../../../../_static/teachbook_en.pdf)
 
