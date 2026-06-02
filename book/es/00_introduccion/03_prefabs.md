@@ -1,4 +1,4 @@
-# 3. Prefabs
+# 1.2. Prefabs
 
 Permiten crear plantillas de game objects para crear elementos en diferentes posiciones de las escenas. Para crear las plantillas normalmente se crea un carpeta en Assets y posteriormente se añade un prefab seleccionando sobre ella con el botón derecho del ratón createprefab Figura 5. 
 

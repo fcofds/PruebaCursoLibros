@@ -1,4 +1,4 @@
-# 6. Transformaciones
+# 1.5. Transformaciones
 
 Las transformaciones se aplican sobre los objetos seleccionados pero hay que tener en cuenta el grado de anidamiento de los objetos. Las transformaciones aplicadas en los objetos son básicamente de translación, rotación y escalado Figura 9. 
 

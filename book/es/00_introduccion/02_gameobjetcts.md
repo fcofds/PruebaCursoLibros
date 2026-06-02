@@ -1,4 +1,4 @@
-# 2. GameObjects
+# 1.1. GameObjects
 
 
 Son los diferentes elementos que se tienen en una escena, por sí solos no hacen nada y básicamente suelen contender una serie de componentes que marcan el comportamiento de los objetos. Por ejemplo para añadir un objeto a la escena se puede ir al componente de jerarquía y seleccionar createcube, de este modo se añadirá un cubo a la escena que ahora será un objeto.

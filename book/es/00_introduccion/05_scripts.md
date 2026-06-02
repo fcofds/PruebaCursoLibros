@@ -1,4 +1,4 @@
-# 5. Scripts
+# 1.4. Scripts
 
 Los scripts permiten ejecutar sentencias de código asociado a determinados objetos. Para crear un script se puede proceder de la misma manera que para los Prefab, se puede crear una carpeta en la jerarquía y añadir un script mediante la opción createjavascripts. Una vez creado al darle doble click se abre el editor MonoDevelop-Unity.
 
