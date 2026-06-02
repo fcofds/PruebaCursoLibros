@@ -574,6 +574,15 @@ def build_language(lang):
                 os.makedirs(final_images_dir)
             merge_dir_into(temp_images_dir, final_images_dir)
 
+        # Merge download files (e.g., PDF versions, attachments) from temp build to final root
+        temp_downloads_dir = os.path.join(temp_build_root, "_build", "html", "_downloads")
+        final_downloads_dir = os.path.join(FINAL_HTML_DIR, "_downloads")
+        if os.path.exists(temp_downloads_dir):
+            print(f"📥 Merging download files from temp build ({lang}) to global _downloads...")
+            if not os.path.exists(final_downloads_dir):
+                os.makedirs(final_downloads_dir)
+            merge_dir_into(temp_downloads_dir, final_downloads_dir)
+
     except subprocess.CalledProcessError:
         print(f"❌ Error compilando idioma standalone: {lang}")
         sys.exit(1)
