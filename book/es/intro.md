@@ -7,8 +7,5 @@ En este libro encontrarás:
 
 ## Versión PDF
 
-También puedes descargar la versión imprimible del libro:
-
-- [Descargar PDF en español](../_static/teachbook_es.pdf)
-- [Download PDF in English](../_static/teachbook_en.pdf)
+También puedes descargar la versión imprimible del libro
 
