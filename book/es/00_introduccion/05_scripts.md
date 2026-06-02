@@ -2,16 +2,13 @@
 
 Los scripts permiten ejecutar sentencias de código asociado a determinados objetos. Para crear un script se puede proceder de la misma manera que para los Prefab, se puede crear una carpeta en la jerarquía y añadir un script mediante la opción createjavascripts. Una vez creado al darle doble click se abre el editor MonoDevelop-Unity.
 
-
-
-
 ````{only} html
 ```{raw} html
 <figure class="align-center">
   <picture>
-    <img src="../../_static/images/Imagen8.png" alt="Figura 8.	Scripts" style="width: 85%;">
+    <img src="../../_static/images/Imagen8.png" alt="Figura 8.	Scriptsy" style="width: 85%;">
   </picture>
-  <figcaption>Figura 8. Scripts</figcaption>
+  <figcaption>Figura 8.	Scripts</figcaption>
 </figure>
 ```
 ````
@@ -26,6 +23,7 @@ align: center
 ---
 ```
 ````
+
 
 Para el caso de C# se podría hacer mediante el siguiente código
 using UnityEngine;
